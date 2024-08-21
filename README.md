@@ -18,3 +18,11 @@ Backend development(BEGINNER)
 <li>File system operations</li>
 <li>Understanding http moodule</li>
 </ul>
+<br>DAY 3:
+<ul>
+<li>npm understading</li>
+<li>installing and uninstalling anything basics & advanced</li>
+<li>dependencies</li>
+<li>devdependencies</li>
+<li>scripts-understanding default scripts PATH and custom scripts</li>
+</ul>
